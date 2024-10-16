@@ -1,0 +1,22 @@
+Aug-Sep
+During the first month and ½ we were introduced to our project and what our subsystems would likey be. Our sponsor TI walked us though what our project would be and what we would be working with. Next we became familiar with the ide CCS as well as other intro projects given to us by TI to become familiar with the environment. Next, we defined our subsystems as (Tyler = inverter) (Case and Tamara = estimator) (Cristian = ADC). We began research on out substances and all aspects of the project, and we worked on the ICD, FSR, CONOPS, EXE& VAL plan ect. One ther reports were finished we started on out midterm presentation and started digesting code given to us by TI to later port to a new board. 
+
+
+
+Oct 1 
+We are still working through our intro projects and we demoed them today (10/1/24)
+We are still digesting the code Given to us by TI Trying to understand how the code works and is split into the different components. 
+
+
+
+Oct 8
+Fall break occurred so not much progress was made. Still digesting the code and working through the training labs provided by TI
+
+
+
+Oct 15
+Tyler has started porting the existing code to the f28p65x board.
+Cristian has been working through the ADC Lab provided by TI
+Case & Tamara have been working through the old code and other TI labs within CCS and using sysconfig as well.
+We have realized that our previous subsystems do not meet class requirements and will be difficult to gain individual progress with the current subsystems. We plan to talk to Prof. Stavros about this issue ASAP.
+Update: We have redefined our subsystems (Tyler = porting)  (Case = New estimator)  (Tamara = New inverter) (Cristian = new  ADC). We plan to meet TI’s requirements by porting the code to the new board and by writing new code we can use and compare performance with. 
