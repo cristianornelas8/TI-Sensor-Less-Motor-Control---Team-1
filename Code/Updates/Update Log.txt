@@ -1,3 +1,6 @@
 Please provide date, name and what was updated in log below
 
 Ex: 2/6/25 Tyler, updated code fr
+
+
+3/4/25 Tyler, added Uart outline code. Working solution but uart does not op correctly.
