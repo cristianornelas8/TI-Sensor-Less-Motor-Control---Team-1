@@ -4,3 +4,5 @@ Ex: 2/6/25 Tyler, updated code fr
 
 
 3/4/25 Tyler, added Uart outline code. Working solution but uart does not op correctly.
+
+3/6/2025 Case, finished the float64 updated code.
