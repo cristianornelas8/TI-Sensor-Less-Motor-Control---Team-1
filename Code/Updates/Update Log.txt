@@ -8,3 +8,5 @@ Ex: 2/6/25 Tyler, updated code fr
 3/6/2025 Case, finished the float64 updated code.
 
 3/20 Cristian, added 16bit adc
+
+3/20 Tamara, added working oversampling code -> edit is only in the hal.c file  
