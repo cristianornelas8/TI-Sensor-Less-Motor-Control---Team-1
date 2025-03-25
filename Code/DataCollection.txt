@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportImportMemento.1>
+<VarMeta IMemento.internal.id="systemVars.flagEnableSystem"/>
+<VarMeta IMemento.internal.id="motorVars_M1.ISRCount"/>
+
+<VarMeta IMemento.internal.id="motorVars_M1.DataCollection"/>
+<VarMeta IMemento.internal.id="DataIndex"/>
+
+<VarMeta IMemento.internal.id="motorVars_M1.speedRef_Hz"/>
+<VarMeta IMemento.internal.id="motorVars_M1.speed_Hz"/>
+
+<VarMeta IMemento.internal.id="motorVars_M1.flagEnableRunAndIdentify"/>
+<VarMeta IMemento.internal.id="motorVars_M1.flagRunIdentAndOnLine"/>
+
+<VarMeta IMemento.internal.id="motorVars_M1.adcData.VdcBus_V"/>
+<VarMeta IMemento.internal.id="motorVars_M1.Is_A"/>
+<VarMeta IMemento.internal.id="motorVars_M1.Irms_A"/>
+
+<VarMeta IMemento.internal.id="motorVars_M1.flagClearFaults"/>
+<VarMeta IMemento.internal.id="motorVars_M1.faultMtrUse.all"/>
+<VarMeta IMemento.internal.id="motorVars_M1.faultMtrPrev.bit"/>
+</ExportImportMemento.1>
